@@ -1,6 +1,10 @@
 WebCraft (HTML5 Minecraft)
 ---------------------
 
+New feature
+---------------------
+1. able to create your own world
+2. able to visit other player's world
 
 Structure
 ---------------------
