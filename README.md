@@ -15,4 +15,7 @@ Structure
 How to run?
 ---------------------
 server:
-*node server.js*
+`node server.js`
+
+client:
+open browser and go to http://localhost:3000/multiplayer.html
