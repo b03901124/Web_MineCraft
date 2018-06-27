@@ -19,12 +19,12 @@ Structure
 
 How to run?
 ---------------------
-# server:
+### server:
 
 ```
 node server.js
 ```
 
-# client:
+### client:
 
 open browser and go to http://localhost:3000/multiplayer.html
